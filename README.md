@@ -1,3 +1,7 @@
+```
+docker build -t projects https://github.com/procrastinando/fish-speech-srt-to-audio.git#main:.
+```
+
 <div align="center">
 <h1>Fish Speech</h1>
 
