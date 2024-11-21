@@ -1,5 +1,5 @@
 ```
-docker build -t projects https://github.com/procrastinando/fish-speech-srt-to-audio.git#main:.
+docker build -t fish-speech https://github.com/procrastinando/fish-speech-srt-to-audio.git#main:.
 ```
 
 <div align="center">
